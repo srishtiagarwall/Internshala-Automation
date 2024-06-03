@@ -1,0 +1,27 @@
+{
+  "name": "internshala-automation",
+  "version": "1.0.0",
+  "description": "A Puppeteer automation script for Internshala tasks.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srishtiagarwall/Internshala-Automation.git"
+  },
+  "keywords": [
+    "[\"automation\"",
+    "\"puppeteer\"",
+    "\"internshala\"]"
+  ],
+  "author": "Srishti Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srishtiagarwall/Internshala-Automation/issues"
+  },
+  "homepage": "https://github.com/srishtiagarwall/Internshala-Automation#readme",
+  "dependencies": {
+    "puppeteer": "^22.10.0"
+  }
+}

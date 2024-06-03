@@ -1,15 +1,14 @@
 module.exports = [
     {
-      "College": "Maharaja Agrasen Institute Of Technology",
-      "Degree" : "Bachelor of Technology (B.Tech)",
-      "Stream" : "Information Technology",
-      "Percentage" : "91",
-      "Training" : "Data Structures and Algorithms, Web Development",
-      "Organization" : "XYZ Pvt Ltd.",
-      "description" : "XYZ is a great institution where I got to learn the not only the basics of data structures and algorithms but I also got familiar with Web Development and Competitive Programming. Here, the main focus is on concept building and it was a great start for me.",
-      "link" : "https://github.com/xyz/Task1",
-      "hiringReason" : "Over the past few years, I have acquired relevant skills and experience, which I shall bring to your organization. I have also worked tirelessly on my communication abilities and teamwork skills, which I will put to use in my future career, which would be in your organization if I am selected for the position.",
-      "availability" : "Yes, I will be available",
+      "College": "SRM Institute of Sciece & Techology",
+      "Degree" : "Bachelor of Technology (B.Tech.)",
+      "Stream" : "Computer Sciece Engineering",
+      "CGPA" : "9.25 CGPA",
+      "Skills" : "C++, Python, HTML, CSS, Tailwind CSS, JavaScript, TypeScript, JQuery, Bootstrap, React.js, Node.js, Express.js, MongoDB, SQL, Amazon Web Services (AWS), Kafka, Git, GitHub, Postman, PowerBI, Data Strutures & Algorithm, OOPS, OS, DBMS, AI/ML",
+      "description" : "I'm a dedicated Computer Science & Engineering student with a strong academic background. Currently pursuing a B.Tech in Computer Science, I've maintained a solid CGPA of 9.25. My technical proficiency includes C++, data structures, HTML, CSS, Tailwind CSS, JavaScript, Bootstrap, JQuery, TypeScript, React.js, Node.js, Express.js, MongoDB, SQL, Python, PowerBI, AWS, Kafka, Postman, and AI/ML. I've put my skills to practical use in projects such as Backend Development, which demonstrate my problem-solving abilities and technical know-how. Additionally, I hold a certification in database management systems, which has given me in-depth knowledge of data organization and retrieval. I'm deeply passionate about technology and innovation and am always eager to collaborate on exciting tech projects. Let's connect and explore opportunities in the world of computer science and engineering.",
+      "link" : "https://github.com/srishtiagarwall",
+      "hiringReason" : "Hello team, I'm writing to express my interest in the software developer position. With a strong foundation in C++, Python, HTML, CSS, Tailwind CSS, JavaScript TypeScript, JQuery, Bootstrap, React.js, Node.js, Express.js, MongoDB, SQL, AWS, Kafka, Postman, PowerBI, Git, GitHub, and AI/ML, coupled with hands-on experience in website development, I'm enthusiastic about the opportunity to contribute to the esteemed IT sector. Being a fresher, I'm having a tough time finding a job to start my career. I can assure you that a single chance can help me prove myself and my passion for my work in the industry. I am adept at meeting client requirements and designing and implementing website architecture. My technical skills are complemented by a bachelor’s degree in computer science, ensuring a comprehensive understanding of website development principles. I'm confident in my ability to deliver high-quality work and collaborate effectively within a dynamic team environment. Enclosed is my resume for your review. I'm enthusiastic about the possibility of contributing to the team and would welcome the opportunity to discuss how my skills align with my passion for website development. Thank you for considering my application. I'm eager to further discuss how my background, skills, and enthusiasm align with the needs of your organization. Please see my attached resume. Should you require any further information or clarification, please feel free to contact me at your convenience via email at agarwal11srishti@gmail.com or by phone at +91 9650353197. I look forward to the possibility of entering the world of innovation and contributing to innovative projects. Warm regards, Srishti Agarwal agarwal11srishti@gmail.com +91 9650353197",
+      "availability" : "Yes, I'll be available.",
       "rating" : "4",
     }
 ]
